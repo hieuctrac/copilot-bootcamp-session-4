@@ -1,0 +1,1 @@
+I confirm script exists; no-op
